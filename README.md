@@ -1,3 +1,7 @@
+![Built with Unity](https://img.shields.io/badge/built‑with‑Unity-black?style=flat&logo=unity&logoColor=white)
+![Target: WebGL](https://img.shields.io/badge/target‑WebGL-0099FF)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 # Connect Four (Unity WebGL)
 A lightweight, browser-based implementation of Connect Four, built with Unity and exported as a WebGL project. This was created as an experiment in Unity’s WebGL pipeline.
 Live demo: https://lukasruee.github.io/ConnectFour/
