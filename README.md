@@ -25,3 +25,5 @@ This project is primarily a demo / proof-of-concept to:
 ## Technical Details
 - Engine: Unity (2021.3.45f2)
 - Target Platform: WebGL
+
+License MIT License © 2025 LukasRuee You may use, modify, and distribute freely with attribution.
